@@ -98,3 +98,26 @@ Global chain of Möbius structures connected through indetermination.
 ## 6. Example Expressions
 
 ### 6.1 Basic transition
+
+
+### 6.2 Möbius cycle
+
+
+### 6.3 Carrier emission
+
+
+### 6.4 Collapse event
+
+
+---
+
+## 7. Purpose of Syntax
+This syntax provides:
+- a shared vocabulary  
+- a consistent conceptual grammar  
+- a way to describe structural processes  
+- a foundation for AI reasoning  
+
+It is intentionally minimal and extensible.
+
+
