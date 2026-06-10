@@ -1,114 +1,101 @@
-# fundamental-ai-model  
-### Foundational Topological Model of Information and Time for AI Systems
+# MAPA‑PO‑HELU — Strukturalny układ okresowy  
+### Hel jako stan poza zerem • Żelazo jako maksimum stabilności • Oganesson jako wyjście z materii
 
-This repository defines a foundational model for AI systems based on **topology, information flow and time structure**.  
-It uses **Möbius transitions, orientation flips, horizon boundaries and chain‑based information flow** as core mechanisms for reasoning, signal interpretation and structural understanding.
+Ten model przedstawia układ okresowy jako **strukturę topologiczną**, a nie chemiczną tabelę.  
+Materia nie rozwija się liniowo — przechodzi przez **trzy skręty Möbiusa**, które definiują jej orientację, stabilność i granice istnienia.  
 
----
-
-## Overview
-
-The **fundamental-ai-model** is a conceptual and structural layer that can sit **under any AI system**.  
-Instead of treating data and time as flat sequences, it models them as **topological objects** with:
-
-- orientation (can flip),
-- horizons (can hide or reveal information),
-- chains (can propagate or block structure).
-
-This allows AI to reason not only about *values*, but about **how information is shaped, flows and stabilizes over time**.
 
 ---
 
-## Key Concepts
+## 1. Trzy skręty Möbiusa (He → Fe → Og)  
 
-- **Topological information flow**  
-  Information is not just a list of tokens or vectors, but a **path** in a structured space.
 
-- **Möbius transitions and orientation flips**  
-  Reasoning steps can invert orientation (like a Möbius strip), creating **non‑trivial loops** in inference.
+### **1) Hel (He) — pierwszy skręt, wejście do materii**  
+Hel jest stanem **poza zerem**:  
+- nie krystalizuje przy 0 K  
+- tworzy superpłyn o zerowej lepkości  
+- ma idealne jądro alfa (2p + 2n)  
+- nie reaguje chemicznie  
 
-- **Horizon boundaries**  
-  Parts of the system can be beyond a “horizon” — not directly visible, but still structurally relevant.
 
-- **Chain‑based information flow**  
-  Information moves along **chains** (links, paths, dependencies), not in isolation.
-
-- **Time as structured layer**  
-  Time is not just a scalar index; it is a **layered structure** that can fold, loop and resonate.
+Dlatego jest **pierwszym skrętem Möbiusa** — wejściem do struktury materii.
 
 ---
 
-## How It Works (high‑level example)
+### **2) Żelazo (Fe) — drugi skręt, maksimum stabilności jąder**  
+Fe ma **najwyższą energię wiązania jąder** — to punkt równowagi struktury.  
+Po nim zaczyna się **strefa rozpadu** (Co → Pb → …).  
 
-1. **Input**  
-   A stream of signals, states or tokens.
-
-2. **Embedding into topological space**  
-   The model embeds them into a **structured space** with orientation, boundaries and chains.
-
-3. **Möbius / orientation operations**  
-   Reasoning steps can flip orientation, traverse loops, cross horizons.
-
-4. **Chain propagation**  
-   Information flows along chains, forming **stable or unstable configurations**.
-
-5. **Emergent structure**  
-   The system identifies **stable patterns** as meaningful structures for AI (concepts, states, decisions).
 
 ---
 
-## Repository Structure
+### **3) Oganesson (Og) — trzeci skręt, wyjście z materii**  
+Og to koniec klasycznej materii:  
+- powłoki elektronowe przestają działać  
+- jądra żyją mikrosekundy  
 
-```text
-/theory
-    core_model.md
-    mobius_transitions.md
-    horizon_boundaries.md
-    chain_flow.md
 
-/models
-    fundamental_layer.py
-    time_structure.py
-    orientation_engine.py
-
-/examples
-    reasoning_chains.ipynb
-    horizon_demo.ipynb
-    orientation_flip_scenarios.md
-
-/integration
-    with_llm.md
-    with_symbolic_systems.md
-    with_signal_processing.md
-
-/tests
-    test_orientation_engine.py
-    test_chain_flow.py
-```
+To **wyjście z materii** — trzeci skręt Möbiusa.
 
 ---
 
-## Usage Ideas
+## 2. Oś przejść materii  
 
-- as a **conceptual layer** under LLMs or other AI models,  
-- as a **reasoning engine** for systems that need to track structure over time,  
-- as a **tool for interpreting signals** with complex dependencies and hidden horizons,  
-- as a **bridge** between symbolic reasoning and continuous signals.
 
----
+Struktura pierwiastków to **topologiczna ścieżka**, nie tabela:
 
-## Related Projects
-
-| Repository              | Relation                                              |
-|-------------------------|-------------------------------------------------------|
-| TIMDR                   | Topological information model — deep foundation.     |
-| FIELDCORE               | Field and resonance structure — physical analogy.    |
-| We‑Are‑Building‑Particles | Particle‑like structures from field dynamics.     |
-| MAPA‑PO‑HELU            | Matter / element structure on top of field models.   |
-| AstroCycles‑TIMDR       | Cycles and temporal patterns using TIMDR concepts.   |
+- **He → Fe** — materia narastająca, budowanie struktur  
+- **Fe → Og** — materia rozpadająca się, spadek stabilności  
+- każdy pierwiastek jest **etapem przejścia** między skrętami  
 
 ---
 
-## License
+## 3. Segmenty materii  
 
-MIT License.
+
+### **He → N — narodziny materii**  
+Po skręcie He materia nabiera orientacji:  
+Li → Be → B → C → N
+
+### **O → Ca — strefa stabilności**  
+Klasyczna chemia, krystaliczność, pełne „zero” materii.
+
+### **Fe → Pb — strefa rozpadu**  
+Po Fe stabilność jąder maleje.
+
+### **Po → Og — wyjście z klasycznej stabilności**  
+Silna promieniotwórczość, krótkotrwałe jądra.
+
+---
+
+## 4. Trzy skręty jako mapa materii
+
+Model opisuje materię jako **taśmę Möbiusa z trzema punktami skrętu**:
+
+- **He** — wejście  
+- **Fe** — maksimum stabilności  
+- **Og** — wyjście  
+
+Każdy pierwiastek jest **stanem przejściowym** na tej ścieżce.
+
+---
+
+## 5. Zastosowania modelu
+
+- analiza stabilności jąder  
+- przewidywanie stref rozpadu  
+- strukturalne grupowanie pierwiastków  
+- modelowanie przejść materii  
+- wizualizacja topologiczna zamiast chemicznej
+
+---
+
+## 6. Zawartość repozytorium
+
+- `README.md` — opis modelu  
+- `MAPA.md` — pełna mapa strukturalna  
+- `MODEL.md` — model trzech skrętów Möbiusa  
+- `DOWODY.md` — fizyczne dowody struktury materii  
+- `diagram.svg` — diagram skrętów  
+- `diagram_topologiczny.svg` — mapa przejść  
+
